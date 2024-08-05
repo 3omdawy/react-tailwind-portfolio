@@ -23,6 +23,18 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwind init -p // initialize using postcss
 ```
 
+## Animations
+Some simple transition animation on hover:
+```
+hover:translate-y-2 transition transform
+```
+
+## Layout
+Some respnonsive grid layout:
+```
+<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+```
+
 ## Dark Theme
 1. In `tailwind.config.js` add the following line which indicates that dark theme will be set as a CSS class:
 ```

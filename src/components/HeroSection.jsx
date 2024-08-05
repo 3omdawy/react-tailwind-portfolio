@@ -8,8 +8,7 @@ function HeroSection() {
           Hi, I am Emad 👋
         </h1>
         <p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora,
-          quas.
+          Software Architect / Technical Leader with 13 years of experience
         </p>
         <a
           href="#"
