@@ -1,5 +1,10 @@
 # React Portfolio using Tailwind CSS and Dark Mode Switching
 This is a simple portfolio page created in React using Vite styled with TailwindCSS. It has a feature to switch between light and dark modes
+* Light Theme:
+![LightTheme](https://github.com/user-attachments/assets/93cb764d-dcaa-4021-9669-076d0f50cb83)
+* Dark Theme:
+![DarkTheme](https://github.com/user-attachments/assets/4bb48c83-32c4-4a6c-a62a-dad3ae1018c5)
+
 
 ## Reference
 See [this tutorial](https://www.youtube.com/watch?v=QTY2fLpQn44&list=PLRv_Gd5w9e7k4U8YTQYbX0Scvn8EZBlts&index=5)
