@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react";
 import HeroSection from "./components/HeroSection";
 import Services from "./components/Services";
+import Projects from "./components/Projects";
+import About from "./components/About";
+import Footer from "./components/Footer";
 
 function App() {
   const [theme, setTheme] = useState(null);
@@ -32,6 +35,9 @@ function App() {
         <div className="max-w-5xl mx-auto w-11/12">
           <HeroSection></HeroSection>
           <Services></Services>
+          <Projects></Projects>
+          <About></About>
+          <Footer></Footer>
         </div>
       </div>
     </>
